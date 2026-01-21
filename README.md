@@ -9,6 +9,8 @@ towards the template repository.
 
 Let's see how pushing goes.
 
+And now again, after updating rules. Have to go via a merge request now! Seems to work neatly.
+
 ## Categories
 
 - [salads](salads)
